@@ -63,6 +63,17 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 [![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 [![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
 
+## Convenção de Commits
+
+| Tipo de Commit |Descrição                                                            | Exemplo
+| ---------------|----------------------------------------------------------------------|-----------
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
+| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
+| `docs`         | Altera a documentação do projeto.| `docs: update README.md`
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
+| `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
+
 > [!IMPORTANT]   
 > Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
 
